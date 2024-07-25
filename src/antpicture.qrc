@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>ant.jpg</file>
+        <file>ant.png</file>
+    </qresource>
+</RCC>
